@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689507742 source:c:\users\kelpy\documents\code c++\workersgrosspay\main.cpp
+	<iostream>
+	<iomanip>
+	<thread>
+	<chrono>
+
